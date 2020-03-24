@@ -3,5 +3,5 @@ The metabolic network of Escherichia coli str. K-12 substr. MG1655, â€˜iJO1366â€
 
 IMPORTANT
 =========
-Please cite and use it according to the respective guidlines/licence of the original publication and the database as stated above.
+Please cite and use it according to the respective guidlines/licence of the original publication (https://doi.org/10.1038/msb.2011.65) and the database (http://bigg.ucsd.edu/license).
 
