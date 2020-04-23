@@ -1,5 +1,5 @@
 # Repository For Supplementary Data & Code
-This repository contains the Supplementary Data and R code for the manuscript "Defining the nutritional input for genome-scale metabolic models: a roadmap" by Georgios Marinos, Christoph Kaleta, and Silvio Waschina submitted for peer-reviewing in the journal "PLOS Computational Biology".
+This repository contains the Supplementary Data and R code for the manuscript "Defining the nutritional input for genome-scale metabolic models: a roadmap" by Georgios Marinos, Christoph Kaleta, and Silvio Waschina submitted for peer-reviewing in the journal "XXX".
 
 
 OVERVIEW
