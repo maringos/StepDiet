@@ -143,7 +143,11 @@ iJO1366_new <- changeBounds(model = iJO1366_new,
 optimizeProb(iJO1366_new) # BINGO
 iJO1366_new_optimized <- optimizeProb(iJO1366_new) # BINGO
 
-
+#check acetate production
+ acetat <- grep(pattern = "EX_ac(e)",x = iJO1366_new@react_id, fixed = T)
+ acetat_opt <- optimizeProb(iJO1366_new, algorithm = "fba", retOptSol = FALSE)
+ acetat_opt$fluxes[acetat] # flux of acetate
+ 
 # SUPPLEMENTATION EXPERIMENT
 plot.supplement <- function(model, reactions_position,
                             reaction_value, add_percentage, add_value,
